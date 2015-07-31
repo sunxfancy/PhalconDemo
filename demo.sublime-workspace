@@ -1,0 +1,1545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array"
+			],
+			[
+				"asn",
+				"answers"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"sum",
+				"sumstudents"
+			],
+			[
+				"s_id",
+				"school_id"
+			],
+			[
+				"s",
+				"students  (variable)"
+			],
+			[
+				"scho",
+				"schools"
+			],
+			[
+				"schoo",
+				"school_id"
+			],
+			[
+				"find",
+				"findFirst"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"getM",
+				"getMessage"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"province",
+				"province-name"
+			],
+			[
+				"using",
+				"using namespace	using"
+			],
+			[
+				"des",
+				"destroy	\\$destroy"
+			],
+			[
+				"a",
+				"area3  (variable)"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"use",
+				"usecdn"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"ma",
+				"managerlogin"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"cur",
+				"curquestions  (variable)"
+			],
+			[
+				"test",
+				"test_id"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"na",
+				"nativeplace  (variable)"
+			],
+			[
+				"ctype",
+				"ctype_digit"
+			],
+			[
+				"php",
+				"phpinfo  (function)"
+			],
+			[
+				"man",
+				"manager"
+			],
+			[
+				"user",
+				"username  (variable)"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"reset",
+				"resetpassword"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"fr",
+				"fromName"
+			],
+			[
+				"dis",
+				"district"
+			],
+			[
+				"f_",
+				"factor_id"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"btn-p",
+				"btn-purple"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"encode",
+				"json_encode"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ex",
+				"exception"
+			],
+			[
+				"p",
+				"pData"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"cla",
+				"class	class-..-(class)"
+			],
+			[
+				"w",
+				"wchar_t"
+			],
+			[
+				"l",
+				"lammin	Lambda - Minimal"
+			],
+			[
+				"cals",
+				"class_	class"
+			],
+			[
+				"sec",
+				"sectionId"
+			],
+			[
+				"section",
+				"section_id"
+			],
+			[
+				"type",
+				"typeId"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"key",
+				"key_new"
+			],
+			[
+				"submit",
+				"submit_data"
+			],
+			[
+				"root",
+				"root_size"
+			],
+			[
+				"dd-h",
+				"dd-handle-hover"
+			],
+			[
+				"dd",
+				"dd-handle"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"rela",
+				"relationship"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"relat",
+				"relation"
+			],
+			[
+				"real",
+				"relationship  (variable)"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"gr",
+				"group_id  (variable)"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"grou",
+				"group_ids  (variable)"
+			],
+			[
+				"id",
+				"item_id  (variable)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Sur",
+				"SurveySample  (class)"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"new",
+				"new_record"
+			],
+			[
+				"auth_gr",
+				"auth_group"
+			],
+			[
+				"S",
+				"_SESSION  (variable)"
+			],
+			[
+				"User",
+				"User_ext"
+			],
+			[
+				"assertT",
+				"assertTrue  (function)"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"th",
+				"this  (variable)"
+			],
+			[
+				"_Se",
+				"_SESSION  (variable)"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"font-si",
+				"font-size:   (property)"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"main",
+				"main_wb"
+			],
+			[
+				"_t",
+				"_this"
+			],
+			[
+				"len",
+				"len_s"
+			],
+			[
+				"map",
+				"map_default"
+			],
+			[
+				"def",
+				"map_default"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"Ve",
+				"Create_vector"
+			],
+			[
+				"temp",
+				"temp_input"
+			],
+			[
+				"my",
+				"mysqli  (class)"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"ifx",
+				"ifx_close"
+			],
+			[
+				"Error",
+				"Error_A"
+			],
+			[
+				"creat",
+				"Create_vector"
+			],
+			[
+				"Free",
+				"Free_state"
+			],
+			[
+				"Erro",
+				"Error_state"
+			],
+			[
+				"Err",
+				"Error_const"
+			],
+			[
+				"stat",
+				"state_const"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"stt",
+				"state"
+			],
+			[
+				"wor",
+				"word_len"
+			],
+			[
+				"Ansa",
+				"Analysis"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"stur",
+				"struct_	struct"
+			],
+			[
+				"ife",
+				"ifelifpre	#if … #elif … #else"
+			],
+			[
+				"this",
+				"_this-"
+			],
+			[
+				"sex",
+				"_sex"
+			],
+			[
+				"im",
+				"imt	import junit.framework.TestCase;"
+			],
+			[
+				"gre",
+				"greet-replay"
+			],
+			[
+				"fro",
+				"for	For Loop"
+			],
+			[
+				"fu",
+				"functor	Functor"
+			],
+			[
+				"viewcom",
+				"view_run_command	view.run_command"
+			],
+			[
+				"on_",
+				"on_close	eventlistener.on_close"
+			],
+			[
+				"count",
+				"COUNT"
+			],
+			[
+				"CloseD",
+				"CloseDoorDone"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 119.0,
+		"selected_items":
+		[
+			[
+				"set cofee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Email",
+				"Email"
+			],
+			[
+				"snipp",
+				"SnippetManger: NewSnippet"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Package Control: disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"set c",
+				"Set Syntax: C++"
+			],
+			[
+				"setc",
+				"Set Syntax: C++"
+			],
+			[
+				"gitgui",
+				"Git: Gui"
+			],
+			[
+				"gitgu",
+				"Git: Gui"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"pc",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"set vo",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"set C++",
+				"Set Syntax: C++"
+			],
+			[
+				"set C",
+				"Set Syntax: C++"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"new",
+				"NewBlog"
+			],
+			[
+				"set c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"setvol",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"setvo",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"setph",
+				"Set Syntax: PHP"
+			],
+			[
+				"pyto",
+				"SublimeREPL: Python"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"setC",
+				"Set Syntax: C"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"diasb",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"diabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"diab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disb",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"setxml",
+				"Set Syntax: XML"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"ab",
+				"About"
+			],
+			[
+				"installpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"set omg",
+				"Set Syntax: orgmode"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"setmark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"setjava",
+				"Set Syntax: Java"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"show",
+				"ImageShow: Show"
+			],
+			[
+				"view",
+				"ImageShow: View"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"image",
+				"ImageShow: Show"
+			],
+			[
+				"newpl",
+				"SnippetManger: NewPlugin"
+			],
+			[
+				"setlat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"setMark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"re",
+				"ANF: Rename File"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sette",
+				"Set Syntax: Textile"
+			],
+			[
+				"set latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"render",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"renderd",
+				"Pandoc: Render Markdown DocX"
+			],
+			[
+				"rende",
+				"Pandoc: Render Markdown DocX"
+			],
+			[
+				"renderdocx",
+				"Pandoc: Render Markdown DocX"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"set markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"set lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"adds",
+				"SnippetManger: AddSnippet"
+			],
+			[
+				"addsn",
+				"SnippetManger: AddSnippet"
+			],
+			[
+				"snippetmar",
+				"SnippetManger: NewSnippet"
+			],
+			[
+				"set",
+				"Set Syntax: SQL"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"clips",
+				"SublimeREPL: CLIPS"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"clj",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"clo",
+				"SublimeREPL: Clojure-Telnet"
+			],
+			[
+				"clojure",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"chat",
+				"SublimeREPL: Chat"
+			],
+			[
+				"Chat",
+				"SublimeREPL: Chat"
+			],
+			[
+				"chaat",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"clisp",
+				"SublimeREPL: Clisp"
+			],
+			[
+				"clis",
+				"SublimeREPL: Clisp"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"sava",
+				"File: Save All"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"nav",
+				"SuperNavigator: Super Navigate in all tabs"
+			],
+			[
+				"navaiga",
+				"SuperNavigator: Super Navigate"
+			],
+			[
+				"disabll",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"shellc",
+				"Shell Command"
+			],
+			[
+				"sett",
+				"Set Syntax: Textile"
+			],
+			[
+				"REPL",
+				"SublimeREPL: Clisp"
+			],
+			[
+				"set lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"ssM",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setTe",
+				"Set Syntax: Textile"
+			],
+			[
+				"SetT",
+				"Set Syntax: Textile"
+			],
+			[
+				"setT",
+				"Set Syntax: Textile"
+			],
+			[
+				"set t",
+				"Set Syntax: Textile"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"newf",
+				"File: New View into File"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"perl",
+				"SublimeREPL: Perl"
+			]
+		],
+		"width": 642.0
+	},
+	"console":
+	{
+		"height": 765.0,
+		"history":
+		[
+			"print('\\u00e4\\u00b8\\u00b4\\u00e5\\u00ba\\u0160\\u00e5\\u0152\\u00bb\\u00e5\\u00ad\\u00a6\\u00e9\\u2122\\u00a2'.decode(\"UTF-8\"))",
+			"print('\\u00e4\\u00b8\\u00b4\\u00e5\\u00ba\\u0160\\u00e5\\u0152\\u00bb\\u00e5\\u00ad\\u00a6\\u00e9\\u2122\\u00a2'.encode(\"UTF-8\"))",
+			"print('\\u00e4\\u00b8\\u00b4\\u00e5\\u00ba\\u0160\\u00e5\\u0152\\u00bb\\u00e5\\u00ad\\u00a6\\u00e9\\u2122\\u00a2')",
+			"\\u00e4\\u00b8\\u00b4\\u00e5\\u00ba\\u0160\\u00e5\\u0152\\u00bb\\u00e5\\u00ad\\u00a6\\u00e9\\u2122\\u00a2",
+			"new_snippet",
+			"new_plugin",
+			"example",
+			"browser_refresh",
+			"sfe",
+			"SublimePTY",
+			"sublime.status_message(\"发\")",
+			"sublime.status_message(\"发送成功\")",
+			"status_message(\"发送成功\")",
+			"Calculate",
+			"pwd(len)",
+			"i",
+			"(i+1)*10",
+			"i = 10",
+			"i= 1-",
+			"i = 1-",
+			"i => 10",
+			"10*100",
+			"10*10",
+			"shell",
+			"repl_open",
+			"run_existing_window_command",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"install",
+			"import urllib3,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib3.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib3.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sxf/data/workspace/Web/Questionnaire/public/sjzd.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/plugins/Security.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/config/config.ini",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/config/routes.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/config/test.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/controllers/StudentController.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/views/admin/dashboard.volt",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/views/student/complete.volt",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/views/student/nextpart.volt",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/views/admin/index.volt",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/controllers/ImportController.php",
+		"/home/sxf/data/workspace/Web/Questionnaire/app/controllers/AdminController.php",
+		"/D/Program Files/Sublime Text 3/Data/Packages/GoSublime/USAGE.md",
+		"/usr/lib/sublime_text_3/Data/Packages/GoSublime/USAGE.md",
+		"/usr/lib/sublime_text_3/Data/Packages/User/GoSublime.sublime-settings",
+		"/usr/lib/sublime_text_3/Data/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/IndexController.php",
+		"/home/sxf/data/workspace/Web/Question/app/views/student/index.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/dashboard.volt.bk",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/StudentController.php",
+		"/home/sxf/data/workspace/Web/Question/public/js/admin_controller.js",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/workspace/Web/Question/app/views/admin/dashboard.volt.bk",
+		"/D/workspace/Web/Question/app/views/layouts/request-layout.volt",
+		"/D/workspace/Web/Question/app/views/layouts/backend-layout.volt",
+		"/D/workspace/Web/Question/app/views/layouts/admin-layout.volt",
+		"/D/workspace/Web/Question/app/views/layouts/index-layout.volt",
+		"/D/workspace/Web/Question/app/views/admin/dashboard.volt",
+		"/home/sxf/桌面/近期工作清单",
+		"/home/sxf/桌面/问题大学",
+		"/home/sxf/data/workspace/Web/YiYueWeb/app/plugins/Security.php",
+		"/usr/lib/sublime_text_3/Data/Packages/GoSublime/CHANGELOG.md",
+		"/home/sxf/data/workspace/Web/Question/app/views/student/survey.volt",
+		"/home/sxf/data/workspace/Web/Question/app/plugins/Security.php",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/ImportController.php",
+		"/home/sxf/data/workspace/Web/Question/app/config/question.sql",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/Base.php",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/AdminController.php",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/StuloginController.php",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/ManagerloginController.php",
+		"/home/sxf/data/workspace/Web/Question/app/controllers/StudentController.php.bk",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/view.volt",
+		"/home/sxf/data/workspace/Web/Question/public/js/backend.js",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/surveylist.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/stulogin/index.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/layouts/index-layout.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/import/student.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/import/index.volt",
+		"/home/sxf/data/workspace/Python/sd/sdzy.py",
+		"/home/sxf/桌面/机器人相关组件设计.md",
+		"/home/sxf/桌面/问题",
+		"/home/sxf/data/workspace/Web/Question/public/css/survey_desktop.css",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/urllabel.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/questionimport.volt",
+		"/home/sxf/data/workspace/Web/Question/public/lib/bootstrap-datepicker.js",
+		"/home/sxf/data/千万不要在php类代码中使用闭合标签.md",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/addtest.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/edittest.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/authmanager.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/index.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/register.volt",
+		"/home/sxf/data/workspace/Web/Question/public/sjzd.php",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/requestForm.volt",
+		"/home/sxf/data/测试地址.txt",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/login.volt",
+		"/home/sxf/data/文档/数据挖掘/数据挖掘.md",
+		"/home/sxf/data/workspace/Web/Question - 副本/app/controllers/StudentController.php",
+		"/home/sxf/data/文档/倾转旋翼机/倾转旋翼机/倾转旋翼机气动_动力学多学科设计优化研究_薛立鹏.caj",
+		"/home/sxf/data/workspace/Web/Question/coffeescript/admin_controller.coffee",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/setting.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/index.volt",
+		"/home/sxf/Telegram Desktop/a.xls",
+		"/home/sxf/data/workspace/Web/Question/app/views/student/complete.volt",
+		"/home/sxf/data/文档/编译原理/编译原理.md",
+		"/home/sxf/data/test/test.cpp",
+		"/home/sxf/data/test/test.cpp ",
+		"/home/sxf/data/文档/编译原理/test/test.cpp ",
+		"/usr/lib/sublime_text_3/Data/Packages/User/Preferences.sublime-settings",
+		"/home/sxf/data/文档/编译原理/test/test. ",
+		"/home/sxf/data/文档/编译原理/TestC/test.c",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/requestschooltest.volt",
+		"/home/sxf/data/workspace/Web/Question/public/js/ZeroClipboard.js",
+		"/home/sxf/data/workspace/Web/Question/public/js/location.js",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/bk.volt",
+		"/home/sxf/data/workspace/Web/Question/doc/待修改意见.txt",
+		"/home/sxf/data/workspace/Web/Question/app/config/config.ini",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/checkrequest.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/admin/questioneditor.volt",
+		"/home/sxf/data/workspace/Web/Question/doc/系统密码.txt",
+		"/home/sxf/data/workspace/Web/Question/public/index.php",
+		"/home/sxf/data/workspace/Web/Question/public/js/locationCard.js",
+		"/home/sxf/data/workspace/Web/Question/app/views/student/nextpart.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/index.volt",
+		"/home/sxf/data/workspace/Web/Question/public/lib/stickUp.js",
+		"/home/sxf/data/workspace/Web/Question/public/css/survey_phone.css",
+		"/home/sxf/data/workspace/Web/Question/public/css/survey.css",
+		"/home/sxf/桌面/写给学弟学妹的冯如杯答辩建议.md",
+		"/home/sxf/data/workspace/Web/Question/public/js/student_instruction.js",
+		"/home/sxf/data/workspace/Web/Question/app/models/Request.php",
+		"/home/sxf/data/workspace/Web/Question/public/pagecss/index.css",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/import.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/layouts/backend-layout.volt",
+		"/home/sxf/data/workspace/Web/Question/doc/网站性能调优方案.md",
+		"/home/sxf/data/workspace/Web/Question/public/css/pagecss/admin.css",
+		"/home/sxf/data/workspace/Web/Question/public/css/pagecss/managerlogin.css",
+		"/home/sxf/data/workspace/Web/Question/public/css/pagecss/index.css",
+		"/home/sxf/data/workspace/Web/Question/public/css/student.css",
+		"/home/sxf/data/workspace/Web/Question/doc/压测.txt",
+		"/home/sxf/data/workspace/Web/Question/app/views/index/test.volt",
+		"/home/sxf/data/workspace/Web/Question/app/views/managerlogin/resetpassword.volt",
+		"/home/sxf/data/workspace/Web/Question/app/models/Manager.php",
+		"/home/sxf/opt/adt-bundle-linux-x86_64-20140702/sdk/platform-tools/adb_usb.ini",
+		"/home/sxf/opt/adt-bundle-linux-x86_64-20140702/sdk/platform-tools/adb",
+		"/home/sxf/opt/adt-bundle-linux-x86_64-20140702/eclipse/eclipse.ini",
+		"/home/sxf/data/文档/教程式欺骗.md",
+		"/usr/lib/sublime_text_3/Data/Packages/User/Side Bar Folders.sublime-settings",
+		"/usr/lib/sublime_text_3/Data/Packages/QuickLinks/QuickLinks.sublime-settings",
+		"/home/sxf/data/workspace/Web/Question/app/library/Smtp.php",
+		"/etc/php5/apache2/php.ini",
+		"/home/sxf/data/workspace/Web/Question/app/views/shared/forget.volt",
+		"/home/sxf/data/Program/Tropico.5/activated.ini",
+		"/home/sxf/data/Program/jetty-9.2.3/start.ini",
+		"/home/sxf/data/Program/jetty-9.2.3/start.d/jsp.ini",
+		"/home/sxf/data/Program/jetty-9.2.3/demo-base/start.d/http.ini",
+		"/home/sxf/data/Program/jetty-9.2.3/start.d/http.ini",
+		"/home/sxf/data/workspace/Web/Question/app/library/SendEmail.php",
+		"/usr/lib/sublime_text_3/Data/Packages/Default/Default (Linux).sublime-keymap",
+		"/usr/lib/sublime_text_3/Data/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"regex.c",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=",
+			"export",
+			"school_id",
+			"name",
+			"username",
+			"stu_no",
+			"status",
+			"stu_id",
+			"li",
+			"length",
+			"AUTO_INCREMENT=\\d+",
+			"and",
+			"~",
+			"&",
+			"&&",
+			" &&",
+			"!",
+			"json_encode",
+			"collectio",
+			"factorsheet",
+			"question",
+			"grade",
+			"stu",
+			"name",
+			"nativeplace",
+			"modif",
+			"modfi",
+			"username",
+			"email",
+			"export",
+			"modif",
+			"import",
+			"sum",
+			"modif",
+			"edittest",
+			"\n",
+			"\n\n",
+			"\n",
+			"\\n",
+			"url",
+			"next",
+			"manager",
+			"Manager",
+			"manager",
+			"f_id",
+			"int",
+			"ratio",
+			"college",
+			"email",
+			"            ",
+			"addstudent",
+			"addstur",
+			"mo",
+			"modif",
+			"edit",
+			"7",
+			"test",
+			"update",
+			");\n",
+			"word_warp",
+			"xyn0410",
+			"pass",
+			"user",
+			"password",
+			"username",
+			"//",
+			"\\\\",
+			"ereg",
+			"\\",
+			"//",
+			"\\\\",
+			"\\",
+			"/",
+			"name",
+			"robot",
+			"test",
+			"gettype",
+			"student",
+			"manager",
+			"}\n",
+			"this->session->get(\"manager\")",
+			"this->session->get(\"manager\");",
+			"this->session->get(\"manager\")",
+			"$this->session->get('manager')",
+			"backend",
+			"backendt",
+			"backend",
+			"$this->session->get(\"manager\")",
+			"backend",
+			"IP_ADDRESS",
+			"5",
+			"q_id",
+			"question",
+			"Question",
+			"question",
+			"q_id",
+			"options",
+			"questionmanager",
+			"manager",
+			"Manager",
+			"manager",
+			"phone",
+			"name",
+			"username",
+			"auth",
+			"id",
+			"email",
+			"phone",
+			"name",
+			"auth",
+			"username",
+			"id",
+			"username",
+			"ui-icon-pencil",
+			"myac",
+			"district",
+			"note",
+			"ship",
+			"stock",
+			"Manager",
+			"Request",
+			"sdate",
+			"id",
+			"beforeDelete",
+			"//",
+			"manager",
+			"session",
+			"//"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"ushort",
+			"STRNCPY",
+			"category",
+			"regex",
+			"Regex",
+			"—",
+			"\\overline",
+			"\\frac",
+			"\\lambda",
+			"\\times",
+			"\\Delta",
+			" ",
+			"\n(",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 61.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/sxf/data/workspace/Web/Question/app/controllers":
+	{
+		"height": 302.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 158.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 236.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 228.0
+	},
+	"output.coffee_compile_output":
+	{
+		"height": 158.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 188.0
+	},
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 158.0
+	},
+	"output.markdown":
+	{
+		"height": 164.0
+	},
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 118.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lua.c"
+			],
+			[
+				"lapi",
+				"lapi.c"
+			],
+			[
+				"run",
+				"usr\\lib\\python2.4\\encodings\\raw_unicode_escape.py"
+			],
+			[
+				"ema",
+				"D:\\workspace\\Python\\Mail\\Email.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\workspace\\C\\lua-5.2.3\\src\\lua.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"",
+				"run"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+cache/cachefile/*.txt
+cache/volt/*.php
+cache/temp/*.xls
+doc/
+cache/backup/*.bak
+app/config/config.ini
+app/config/config.php
+public/upload/*.xls
+.idea/
+.phpintel/
+question.sublime-project
+question.sublime-workspace
+*.*~
+.fuse_hidden*
